@@ -1,0 +1,19 @@
+.sobre__descrição {
+    font-family: Roboto, cursive;
+    font-size: 28px;
+    color: #8C8888;
+    font-weight: 100;
+    margin: 1em 5em;
+}
+
+@media screen and (min-width: 0){
+    .sobre__descrição {
+        font-size: 1.3rem;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .sobre__descrição {
+        font-size: 28px;
+    }
+}

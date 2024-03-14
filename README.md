@@ -1,2 +1,2 @@
-# Site-Fruta-Fruto
-Site do curso alura
+# arquitetura-css
+curso de arquitetura da Alura. 

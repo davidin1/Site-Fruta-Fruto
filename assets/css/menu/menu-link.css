@@ -1,0 +1,12 @@
+
+.menu-link{
+    padding-left: 1em;
+    color: #808080;
+    text-decoration: none;
+    text-transform: lowercase;
+}
+
+.menu-link.ativo{
+    color: #333333;
+    font-weight: bold;
+}
